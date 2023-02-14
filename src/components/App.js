@@ -1,3 +1,4 @@
+import { render } from 'enzyme';
 import React from 'react'
 
 // const App = () => {
@@ -16,6 +17,6 @@ function App() {
   }
   
 
-export default App
+export default App;
 
 
